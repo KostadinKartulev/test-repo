@@ -1,0 +1,4 @@
+Napravi html stranica
+
+
+dobavi js logika za iztrivane na movie ot servera
