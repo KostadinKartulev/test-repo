@@ -1,4 +1,7 @@
 Napravi html stranica
+za iztrivane na movie otdobavih js logica 
 
 
-dobavi js logika za iztrivane na movie ot servera
+
+
+dobavih js logika.Bogi e debel
