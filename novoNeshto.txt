@@ -5,3 +5,4 @@ za iztrivane na movie otdobavih js logica
 
 
 dobavih js logika.Bogi e debel
+Da ti e tupo merge conflict
